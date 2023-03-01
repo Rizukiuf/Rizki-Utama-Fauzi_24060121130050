@@ -13,11 +13,11 @@ class MOperasiTitik {
 		System.out.println("t1("+t1.getAbsis()+","+t1.getOrdinat()+")");
 		
 		op.refleksiX(t1);
-		System.out.println("\nRefeksi terhadap sumbu X");
+		System.out.println("\nRefleksi terhadap sumbu X");
 		System.out.println("t1("+t1.getAbsis()+","+t1.getOrdinat()+")");
 		
 		op.refleksiY(t1);
-		System.out.println("\nRefeksi terhadap sumbu Y");
+		System.out.println("\nRefleksi terhadap sumbu Y");
 		System.out.println("t1("+t1.getAbsis()+","+t1.getOrdinat()+")");
 	}
 }

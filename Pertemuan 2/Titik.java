@@ -1,7 +1,7 @@
 /**
- * File      : MOperasiTitik.java		01/03/23
+ * File      : Titik.java		01/03/23
  * Penulis   : Rizki Utama Fauzi / 24060121130050
- * Deskripsi : Kelas yang berisi class Titik
+ * Deskripsi : File yang berisi class Titik
  * 
  */
 
